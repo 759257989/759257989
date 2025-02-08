@@ -39,20 +39,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🔥 Projects & Contributions
-- **[Online Learning Management System](https://github.com/your-github-username/lms-app)** - A full-stack LMS with role-based authentication.
-- **[Restaurant Management System](https://github.com/your-github-username/restaurant-management)** - A Spring Boot-based backend system with complex data processing.
-- **[E-commerce Platform](https://github.com/your-github-username/ecommerce-app)** - A scalable e-commerce backend with microservices.
+- **[Online Learning Management System]([https://github.com/your-github-username/lms-app](https://github.com/759257989/kanbas-react-web-24-su2.git))** - A full-stack LMS with role-based authentication.
+- **[News Application]([https://github.com/your-github-username/restaurant-management](https://github.com/759257989/leadnews.git))** - A Spring Boot-based backend system with complex data processing.
 
 ---
 
@@ -66,9 +55,9 @@
 
 ## 📬 Connect with Me  
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+  <a href="mailto:wang.yu1120@foxmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yu-wang-200658208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/759257989"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
 </p>
 
 ---
