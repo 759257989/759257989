@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Yu Wang! 
-
-🎓 **Graduate Student at Northeastern University** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate about Distributed Systems & Cloud Computing**
+🎓 **Graduate Student at Northeastern University** | 💻 **Aspiring Software Engineer** |
 
 ---
 
