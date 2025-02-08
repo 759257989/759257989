@@ -28,20 +28,21 @@ React, Git
 
 ---
 
-## About Me  
-
-- Passionate about **backend engineering, microservices, and cloud computing**  
-- Love working on **high-performance systems and optimizing databases**  
-- Exploring **AWS microservices** and **distributed system scalability**  
-- Open to **internships & collaborations** in **software development and cloud architecture**  
+## 💡 About Me
+- 🎯 I’m passionate about **backend engineering**, **microservices**, and **cloud computing**.  
+- 💻 I enjoy working on **high-performance systems** and optimizing databases.  
+- 📚 Currently exploring **AWS microservices** and **scalability in distributed systems**.  
+- 🚀 Looking for **internships & collaborations** in **software development & cloud architecture**.  
 
 ---
 
 ## Connect  
 
-📧 Email: [wang.yu1120@foxmail.com](mailto:wang.yu1120@foxmail.com)  
-🔗 LinkedIn: [yu-wang-200658208](https://www.linkedin.com/in/yu-wang-200658208/)  
-🐙 GitHub: [759257989](https://github.com/759257989)  
+<p align="left">
+  <a href="mailto:wang.yu1120@foxmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yu-wang-200658208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/759257989"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
